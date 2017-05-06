@@ -1,0 +1,29 @@
+
+1. I would test whether the user is able to not login with invalid username or password along with,
+	testing whether the user is able to login with valid username or password.
+
+2. I would test Form validation whether any required filled in order to login is empty, such as if username
+	or password field is empty and whether username field contain any special characters that are invalid.
+3. I would examine whether the form validates if the reuqired character lenght for the password or username exceeds or does not reach.
+
+4. I would test whether the password entered trims the left/right.
+
+5. I would test how the username field treats the UPPER CASE and lower case.
+
+6. I would examine if the password entered is encrypted while typing or not.
+
+7. I would examine whether the password can be copied/cut and pasted anywhere else.
+
+8. I would test whether the Other Authentications Option redirects to another page.
+
+9. I would examine incase of an invalid login, whether the form displays message of the field that is incorrect,
+	i.e whether "password is incorrect" or the "username is incorrect", rather than "username or password is incorrect"
+	because it may help attackers to bruteforce the field which if specified for invalid login.
+
+10. I would test whether the forgot password option redirects user to be able to reset the password.
+
+11. I would test whether there is a limit to the unsuccesfull login attempts.
+
+12. I would test whether SQL injection attack or XXS vulnerability works.
+
+13. I would test whether the login page is redirected if the url is bypassed.

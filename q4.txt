@@ -1,0 +1,28 @@
+As a consultant for the startup i would recommend my client to develop whichever platform they are comfortable developing the app for because as for the
+business goals of the company i.e(manufacturing custom designed/printed T-Shirt) can both be reached via both platform.
+
+
+And as for my personal opinion, 
+	I would recommend my client to develop a mobile app for their company. As most of the user base for the company they are starting are going to be
+ranging from teenagers to adults, and both of those user base have mobile and use it frequently. Rather than browsing websites, most of them feel comfortable 
+using an application that is easier to access at anytime.
+
+
+ But i would recommend following things
+to the startup: 
+
+1. To do proper anlaysis and research on what the audience/user for their website is going to be on the basis of age/location/sex or any kind of social, economical
+and environmental aspects.
+
+2. What do most of those audience use to browse internet and spend most of their time with.
+
+3. Does the platform they choose is going to help them achieve their business goals to a certain extent.
+
+4. Is the platform they choose is going to give them proper exposure as they want to their estimated audiences.
+
+
+	Doing proper anlaysis is a key part for the planning of any software development. As a consultant i would recommend them to do proper analysis on their 
+business goals and what platform is better for their estimated clients. I would also recommend my client to make the software more user friendly and simple as
+possible for the users to access. 
+
+
